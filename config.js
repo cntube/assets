@@ -1,0 +1,1 @@
+var domains=['y.route.i-taiwan.tv','y.route.tuck.tw','y.route.linkin.tw','y.route.ns01.biz','y.route.ns02.biz','y.route.ygto.com','y.route.xn--cnqxyh92cdj7al4gr4w.hk','y.route.kaohsiung.tv','y.route.netlord.de','y.route.lovethosetrains.com','y.route.120v.ac','y.route.xxxxx.tw','y.route.biz.tm'];
