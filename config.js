@@ -1,4 +1,4 @@
-var domains = array(
+var domains = new Array(
   'y.route.i-taiwan.tv',
   'y.route.tuck.tw',
   'y.route.linkin.tw',
